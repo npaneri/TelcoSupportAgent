@@ -1,0 +1,21 @@
+Subscriber_ID,Monthly Data Usage (GB),Voice Minutes,ARPU ($),Roaming Used,Intl Calls/Wk,OTT Usage,Churn Score,Complaints Count,Last Recharge ($),Top-up Freq,Device,Tenure (months),
+4433396014350,46.37,850,15.86,No,5,WhatsApp,0.17,3,23.63,Monthly,OnePlus,36,13
+4451494978538,38.88,978,48.5,No,6,Amazon Prime,0.87,5,5.05,Weekly,Google Pixel,34,13
+4460179856136,19.51,370,7.36,No,1,Amazon Prime,0.69,5,19.26,Bi-Weekly,Google Pixel,9,13
+4424962155136,46.61,584,43.96,Yes,1,Amazon Prime,0.79,2,11.04,Weekly,OnePlus,12,13
+4432166843118,23.88,286,40.28,No,4,YouTube,0.11,5,7.62,Bi-Weekly,Xiaomi,25,13
+4422796706433,34.37,122,34.13,No,7,Amazon Prime,0.28,0,14.12,Weekly,iPhone,36,13
+4480726354476,32.33,630,30.76,Yes,5,YouTube,0.28,4,8.43,Monthly,iPhone,7,13
+4494420525399,36.05,341,8.54,Yes,9,YouTube,0.87,5,20.33,Monthly,Google Pixel,41,13
+4426319561088,19.55,179,44.98,Yes,6,WhatsApp,0.32,5,15.77,Monthly,iPhone,23,13
+4488521570521,31.26,292,28,No,0,WhatsApp,0.91,0,10.62,Daily,Samsung,40,13
+4456748421103,12.56,759,14.94,No,10,WhatsApp,0.78,2,26.27,Monthly,OnePlus,11,13
+4419675305295,33.22,176,12.59,No,1,None,0.9,0,19.37,Daily,Google Pixel,38,13
+4451695253638,17.07,976,28.78,Yes,2,WhatsApp,0.15,3,11.86,Monthly,Xiaomi,24,13
+4430241522181,12,133,21.23,Yes,6,YouTube,0.19,5,14.53,Weekly,OnePlus,8,13
+4468454035996,7.88,93,49.11,No,2,None,0.34,5,12.7,Daily,iPhone,41,13
+4490383333133,32.94,179,8.88,No,8,Netflix,0.37,3,26.52,Bi-Weekly,Xiaomi,45,13
+4449315687366,34.93,424,25.48,No,0,WhatsApp,0.26,0,6.52,Weekly,Google Pixel,46,13
+4492297719790,47.03,473,31.98,Yes,0,None,0.44,1,8.38,Daily,OnePlus,30,13
+4443117044307,1.91,505,30.78,No,9,WhatsApp,0.25,2,25.22,Daily,Xiaomi,35,13
+4490852679997,9.71,390,49.42,No,4,YouTube,0.73,0,14.15,Weekly,iPhone,22,13
